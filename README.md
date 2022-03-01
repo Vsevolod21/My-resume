@@ -11,6 +11,7 @@
 * Руковожу корпоративным направлением
 * Увлекаюсь спортом - лыжные гонки 
 
-![photo](https://pixabay.com/ru/photos/%d1%82%d0%b8%d0%b3%d1%80-%d0%b3%d0%be%d0%bb%d0%be%d0%b2%d0%b0-%d0%bb%d0%b8%d1%86%d0%be-%d0%ba%d0%be%d1%88%d0%b0%d1%87%d0%b8%d0%b9-2923186/)
+![photo](img/IMG_6298.JPG)
+
 
 
